@@ -1,0 +1,26 @@
+@media only screen and (max-width:768px){
+    .topbar_content{
+        display:block;
+      
+    }
+    .social_icon {
+        text-align:center;
+        width:30rem;
+        margin:auto;
+        padding-bottom:1rem;
+    }
+    .our_slider{
+        padding:5rem 0;
+    }
+    .slider_content h1 {
+        font-size: 2.5rem;
+        font-weight: 600;
+      
+    }
+    
+    .slider_content p {
+        font-size: 1.2rem;
+        
+    }
+
+}
